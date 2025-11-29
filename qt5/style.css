@@ -1,0 +1,29 @@
+body {
+    background-color: limegreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.AHeader {
+    width: auto;
+    height: 90px;
+    text-align: center;
+    font-size: 70px;
+    font-family: sans-serif;
+}
+
+.FeaturesHeader {
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+.GHeader {
+    text-align: center;
+    font-size: 46px;
+    font-family: fantasy;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
